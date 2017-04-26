@@ -1,0 +1,14 @@
+{
+  "name": "vide-plugin-context-html",
+  "version": "0.0.1",
+  "author": "vic.wang",
+  "keywords": [
+    "vide-plugin",
+    "context-html"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:debuggap/vide-plugin-context-html.git"
+  },
+  "main": "index.js"
+}
